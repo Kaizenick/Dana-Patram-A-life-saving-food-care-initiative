@@ -17,11 +17,11 @@ donate it.
 
 ## TECHNICAL WORK
 
-*First we have decided to make a website first then if time permits we are 
+* First we have decided to make a website first then if time permits we are 
 planning to create an app because app is end to end, and we want the whole 
 community to make use of our portal through our website
 
-*For the website, we summoned a meeting and took a look at various 
+* For the website, we summoned a meeting and took a look at various 
 options at our disposal and we finally decided that we will be using Google 
 Web Services to host our Backend Services. Our website will be very user
 friendly and will be accessible to all groups of people. The following is the 
