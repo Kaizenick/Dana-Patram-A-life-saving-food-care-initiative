@@ -49,7 +49,7 @@ end of the day but they agreed if there is any portal like that then they
 will be willing to give the food to the people who will actually need it. 
 LIST OF NGOs CONNECTED
 
-1 Annakshetra 
+1. Annakshetra 
  
  ANNAKSHETRA, established in November 2010, is a non-profit 
 organization at Jaipur, Rajasthan. They collect unused surplus food and 
@@ -60,8 +60,8 @@ beneficiaries
 Contact Person: Mr. Siddhant, 9928029319, 0141-322 1267, 2504604 
 info@annakshetra.org
 
-1 All India Roti Bank Trust 
-Started in 2017, All India Roti Bank Trust (AIBRT) works across 
+2. All India Roti Bank Trust 
+ Started in 2017, All India Roti Bank Trust (AIBRT) works across 
 20 cities in India with over 1000 volunteers to serve an average of 
 2,00,000 meals each month. The main aim of the organisation is to 
 collect surplus edible food from various channels and distribute it among 
@@ -70,7 +70,7 @@ States: Uttarpradesh, Bihar, Delhi, Jharkhand, West Bengal, Chattisgarh
 Contact Person: Mr. Kishore 
 Tiwari, 9455209530,allindiarotibanktrust@gmail.com
 
-1 Feeding India 
+3. Feeding India 
  Feeding India is a not-for-profit social enterprise started in 2014, 
 which aims to solve the problem of hunger and malnutrition in the 
 country. They channelize excess food from events, restaurants, 
@@ -82,7 +82,7 @@ States: Uttarpradesh, Madhyapradesh, Punjab, Delhi, Gujrat, Rajasthan,
 Maharshtra, Tamilnadu, Karnataka 
 Contact Person: Srishti Jain, 9015026026, srishti.jain@feedingindia.org
 
-1 Feed the Poor campaign 
+4. Feed the Poor campaign 
  Feed The Poor Campaign works to provide food for the poor and 
 the needy people in Aligarh city of UP. The organisation collects surplus 
 food donations from restaurants or cooks fresh food for distribution to 
@@ -91,14 +91,14 @@ State: Uttarpradesh
 Contact Person: Mr. Shamoon Raza 
 Naqvi, 9555902345, feedthepoorcampaign@gmail.com
 
-1 Help Foundation 
+5. Help Foundation 
  We collect cancelled food orders and feed it to underpriveleged 
 children across Kolkata. Also offered are freshly cooked foods, skill 
 training and quality tutoring for children from poor societies. 
 State: West Bengal 
 Contact Person: MrPathikrit, 9804788406, pathikritsaha7@gmail.com
 
-1 Help India Feeding India 
+6. Help India Feeding India 
  Helping India, Feeding India is a Not-For-Profit Organisation 
 started at Hazaribag in 2016 which aims to eradicate starvation, food 16 
 wastage, malnutrition. With 136 volunteers spread across 8 chapter, 
@@ -109,7 +109,7 @@ BIRHOR by providing them food and education is also a key focus.
 State: Jharkhand 
 Contact Person: Mr. Abhijeet, 8092744870, kabhijeet192@gmail.com
 
-1 Meraparivar 
+7. Meraparivar 
  To make it really simple, a food bank is a place where companies 
 or people can come to deposit or donate their unused or unwanted food 
 which will then be collected and allocated to the needy through a 
@@ -118,7 +118,7 @@ families in urban slum.
 State: Delhi, Haryana 
 Contact Person: Mr. Anil Landge, 7838594404, meraparivar@gmail.com
 
-1 No Food Wastage 8870655565 
+8. No Food Wastage 8870655565 
  No Food Waste is a Not-for-profit Organization started in 
 Coimbatore on October 16, 2014 on World Food Day with the focus area 
 of reducing and managing food waste and with the vision of making the 
@@ -138,7 +138,7 @@ State: Tamil Nadu, Andhra Pradesh, Kerela
 Contact Person: Mr. 
 PadmanabanGopalan, 9087790877, nofoodwaste.in@gmail.com17 
 
-1 Rasoi on Wheels 
+9. Rasoi on Wheels 
  Rasoi On Wheels, as the name suggests, is a mobile kitchen service 
 that is providing healthy, nutritious, tasty, wholesome, hygienic packed 
 meal boxes which are served to the less privileged section of our society. 
@@ -148,7 +148,7 @@ vantage places like slums, orphanages, old age homes, schools, hospitals
  State: Delhi 
 Contact Person: MsManika, 9811982272, rassoionwheels@gmail.com
 
-1 Robinhood Army 
+10.Robinhood Army 
  The Robin Hood Army is a volunteer based organization that 
 works to get surplus food from restaurants to the less fortunate sections 
 of society. The organization consists of over 8,500 volunteers spread 
@@ -157,7 +157,7 @@ years. The volunteers are largely young working professionals and
 student who undertake this in their free time. 
 Contact Person: MsAarushiBatra, 9958674179, info@robinhoodarmy.com
 
-1 REVIEWS OF PEOPLE CONTACTED 
+## REVIEWS OF PEOPLE CONTACTED 
 * We have contacted a restaurant Uncle Bobs who agrees to donate 
 leftover food whenever possible and was very impressed by the idea. 
 * We also contacted a very popular restaurant Foodies Bar, he liked the 
