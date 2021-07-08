@@ -29,6 +29,13 @@ interface of the website
 
 ## WEBSITE INTERFACE
 
+![image](https://user-images.githubusercontent.com/56361650/124966690-37499f80-e041-11eb-9afe-ae34e5da22e1.png)
+
+![image](https://user-images.githubusercontent.com/56361650/124966754-47fa1580-e041-11eb-8186-7bdc938bee2f.png)
+
+![image](https://user-images.githubusercontent.com/56361650/124966828-5e07d600-e041-11eb-87b4-27afc318dca7.png)
+
+![image](https://user-images.githubusercontent.com/56361650/124966930-77a91d80-e041-11eb-8681-22f15483244f.png)
 
 
 ## ON FIELD WORK
