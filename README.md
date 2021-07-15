@@ -3,11 +3,11 @@
 ## INTRODUCTION
 
 ### OBJECTIVES AND GOALS
-The main objective of the project is to 
-in our country goes to bed with an empty stomach while 
-food that is being thrown away or drained away. We are trying to 
-become a link between the two significant issues of the country. The 
-portal will make sure that the leftover food or extra food is being
+>The main objective of the project is to 
+ in our country goes to bed with an empty stomach while 
+ food that is being thrown away or drained away. We are trying to 
+ become a link between the two significant issues of the country. The 
+ portal will make sure that the leftover food or extra food is being
 
 ### APPLICATION
 The application of the project will be for the NGOs that donate or 
