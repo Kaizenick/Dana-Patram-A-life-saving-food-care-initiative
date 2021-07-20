@@ -95,7 +95,7 @@ the needy people in Aligarh city of UP. The organisation collects surplus
 food donations from restaurants or cooks fresh food for distribution to 
 feed the hungry population around Jamia Urdu Aligarh college. 
 State: Uttarpradesh 
-Contact Person: Mr. Shamoon Raza 
+Contact Person: Mr. Shamoon Raza H
 Naqvi, 9555902345, feedthepoorcampaign@gmail.com
 
 5. Help Foundation 
